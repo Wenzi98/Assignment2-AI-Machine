@@ -105,6 +105,20 @@ Sample Prediction:
 python
 # Import model
 from model import RoadAccessPredictor
+![Screenshot (35)](https://github.com/user-attachments/assets/61ccdb45-a5e8-4d21-8492-308100a4b123)
+
+![Screenshot (36)](https://github.com/user-attachments/assets/6182176c-d515-43db-81fd-2ff0a86086ed)
+
+![Screenshot (37)](https://github.com/user-attachments/assets/5eaec9f9-a0ba-4d25-b883-8c65a1cc0a2e)
+
+![Screenshot (38)](https://github.com/user-attachments/assets/019bdbd1-5bdd-4ac8-8625-b7a2ba9ea389)
+
+![Screenshot (39)](https://github.com/user-attachments/assets/e224515f-a5e3-4edb-b8f2-e19fccb9e9ed)
+
+
+
+
+
 
 # Initialize predictor
 predictor = RoadAccessPredictor()
